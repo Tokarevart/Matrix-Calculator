@@ -1,0 +1,26 @@
+F:\Programming\Программы\C#\[Pr.] Matrix Calculator\[Pr.] Matrix Calculator\bin\Release\[Pr.] Matrix Calculator.exe.config
+F:\Programming\Программы\C#\[Pr.] Matrix Calculator\[Pr.] Matrix Calculator\bin\Release\[Pr.] Matrix Calculator.exe
+F:\Programming\Программы\C#\[Pr.] Matrix Calculator\[Pr.] Matrix Calculator\bin\Release\[Pr.] Matrix Calculator.pdb
+F:\Programming\Программы\C#\[Pr.] Matrix Calculator\[Pr.] Matrix Calculator\obj\Release\_Pr.__Matrix_Calculator.Form1.resources
+F:\Programming\Программы\C#\[Pr.] Matrix Calculator\[Pr.] Matrix Calculator\obj\Release\_Pr.__Matrix_Calculator.Properties.Resources.resources
+F:\Programming\Программы\C#\[Pr.] Matrix Calculator\[Pr.] Matrix Calculator\obj\Release\[Pr.] Matrix Calculator.csproj.GenerateResource.Cache
+F:\Programming\Программы\C#\[Pr.] Matrix Calculator\[Pr.] Matrix Calculator\obj\Release\[Pr.] Matrix Calculator.exe
+F:\Programming\Программы\C#\[Pr.] Matrix Calculator\[Pr.] Matrix Calculator\obj\Release\[Pr.] Matrix Calculator.pdb
+F:\Programming\Программы\C#\[Pr.] Matrix Calculator\[Pr.] Matrix Calculator\obj\Release\_Pr.__Matrix_Calculator.Form2.resources
+F:\Programming\[Pr.] Matrix Calculator\[Pr.] Matrix Calculator\bin\Release\[Pr.] Matrix Calculator.exe.config
+F:\Programming\[Pr.] Matrix Calculator\[Pr.] Matrix Calculator\obj\Release\[Pr.] Matrix Calculator.exe
+F:\Programming\[Pr.] Matrix Calculator\[Pr.] Matrix Calculator\obj\Release\[Pr.] Matrix Calculator.pdb
+F:\Programming\[Pr.] Matrix Calculator Backup\[Pr.] Matrix Calculator\bin\Release\[Pr.] Matrix Calculator.exe.config
+F:\Programming\[Pr.] Matrix Calculator Backup\[Pr.] Matrix Calculator\obj\Release\[Pr.] Matrix Calculator.exe
+F:\Programming\[Pr.] Matrix Calculator Backup\[Pr.] Matrix Calculator\obj\Release\[Pr.] Matrix Calculator.pdb
+F:\Programming\[Pr.] Matrix Calculator Backup\[Pr.] Matrix Calculator\bin\Release\[Pr.] Matrix Calculator.exe
+F:\Programming\[Pr.] Matrix Calculator Backup\[Pr.] Matrix Calculator\bin\Release\[Pr.] Matrix Calculator.pdb
+F:\Programming\[Pr.] Matrix Calculator Backup\[Pr.] Matrix Calculator\bin\Release\MathNet.Numerics.dll
+F:\Programming\[Pr.] Matrix Calculator Backup\[Pr.] Matrix Calculator\obj\Release\_Pr.__Matrix_Calculator.Form1.resources
+F:\Programming\[Pr.] Matrix Calculator Backup\[Pr.] Matrix Calculator\obj\Release\_Pr.__Matrix_Calculator.Form2.resources
+F:\Programming\[Pr.] Matrix Calculator Backup\[Pr.] Matrix Calculator\obj\Release\_Pr.__Matrix_Calculator.Properties.Resources.resources
+F:\Programming\[Pr.] Matrix Calculator Backup\[Pr.] Matrix Calculator\obj\Release\[Pr.] Matrix Calculator.csproj.GenerateResource.Cache
+F:\Programming\Программы\C#\[Pr.] Matrix Calculator\[Pr.] Matrix Calculator\bin\Release\MathNet.Numerics.dll
+F:\Programming\Программы\C#\Matrix Calculator\[Pr.] Matrix Calculator\bin\Release\[Pr.] Matrix Calculator.exe.config
+F:\Programming\Программы\C#\Matrix Calculator\[Pr.] Matrix Calculator\obj\Release\[Pr.] Matrix Calculator.exe
+F:\Programming\Программы\C#\Matrix Calculator\[Pr.] Matrix Calculator\obj\Release\[Pr.] Matrix Calculator.pdb

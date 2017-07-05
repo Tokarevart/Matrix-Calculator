@@ -1,0 +1,9 @@
+F:\Programming\Программы\C#\[Pr.] Matrix Calculator\[Pr.] Matrix Calculator\bin\Debug\[Pr.] Matrix Calculator.exe.config
+F:\Programming\Программы\C#\[Pr.] Matrix Calculator\[Pr.] Matrix Calculator\bin\Debug\[Pr.] Matrix Calculator.exe
+F:\Programming\Программы\C#\[Pr.] Matrix Calculator\[Pr.] Matrix Calculator\bin\Debug\[Pr.] Matrix Calculator.pdb
+F:\Programming\Программы\C#\[Pr.] Matrix Calculator\[Pr.] Matrix Calculator\obj\Debug\[Pr.] Matrix Calculator.csprojResolveAssemblyReference.cache
+F:\Programming\Программы\C#\[Pr.] Matrix Calculator\[Pr.] Matrix Calculator\obj\Debug\_Pr.__Matrix_Calculator.Form1.resources
+F:\Programming\Программы\C#\[Pr.] Matrix Calculator\[Pr.] Matrix Calculator\obj\Debug\_Pr.__Matrix_Calculator.Properties.Resources.resources
+F:\Programming\Программы\C#\[Pr.] Matrix Calculator\[Pr.] Matrix Calculator\obj\Debug\[Pr.] Matrix Calculator.csproj.GenerateResource.Cache
+F:\Programming\Программы\C#\[Pr.] Matrix Calculator\[Pr.] Matrix Calculator\obj\Debug\[Pr.] Matrix Calculator.exe
+F:\Programming\Программы\C#\[Pr.] Matrix Calculator\[Pr.] Matrix Calculator\obj\Debug\[Pr.] Matrix Calculator.pdb
