@@ -24,3 +24,6 @@ F:\Programming\Программы\C#\[Pr.] Matrix Calculator\[Pr.] Matrix Calcul
 F:\Programming\Программы\C#\Matrix Calculator\[Pr.] Matrix Calculator\bin\Release\[Pr.] Matrix Calculator.exe.config
 F:\Programming\Программы\C#\Matrix Calculator\[Pr.] Matrix Calculator\obj\Release\[Pr.] Matrix Calculator.exe
 F:\Programming\Программы\C#\Matrix Calculator\[Pr.] Matrix Calculator\obj\Release\[Pr.] Matrix Calculator.pdb
+F:\Programming\Программы\C#\Matrix-Calculator\[Pr.] Matrix Calculator\bin\Release\[Pr.] Matrix Calculator.exe.config
+F:\Programming\Программы\C#\Matrix-Calculator\[Pr.] Matrix Calculator\obj\Release\[Pr.] Matrix Calculator.exe
+F:\Programming\Программы\C#\Matrix-Calculator\[Pr.] Matrix Calculator\obj\Release\[Pr.] Matrix Calculator.pdb

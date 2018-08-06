@@ -10,10 +10,12 @@ namespace _Pr.__Matrix_Calculator
         public Form1()
         {
             InitializeComponent();
+
             dataGridView1.Columns.Add(Name, Text);
             dataGridView1.Columns.Add(Name, Text);
             dataGridView1.Columns.Add(Name, Text);
             dataGridView1.Rows.Add(3);
+
             dataGridView2.Columns.Add(Name, Text);
             dataGridView2.Columns.Add(Name, Text);
             dataGridView2.Columns.Add(Name, Text);
